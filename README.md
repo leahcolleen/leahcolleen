@@ -16,6 +16,16 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 
 ## Work experience
 
+
+#### John Lewis Partnership (August 2014 – Current)
+*Retail assistant* 
+ 
+*	Able to train new partners in company procedures 
+*	Handle large amounts of cash and responsible for safe deposits upon the closing of the store
+*	Administered customer complaints and queries efficiently
+*	Responsible for the management of my time when given a list of tasks to complete
+*	Arranged staff activities and competitions at Christmas to boost morale during the Covid-19 pandemic
+
 #### Makers Academy (August to November 2021)
 
 * Designed and built web applications using Ruby, JavaScript and Ruby on Rails
@@ -25,13 +35,6 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 * Worked in agile teams using pair programming and Git version control
 * Front-end designing with Moqups and Figma software
 
-#### John Lewis Partnership (August 2014 – Current)
-*Retail assistant* 
- 
-*	Able to train new partners in company procedures 
-*	Handle large amounts of cash and responsible for safe deposits upon the closing of the store
-*	Administered customer complaints and queries efficiently
-*	Responsible for the management of my time when given a list of tasks to complete
                                                                                                                   
 #### The Stroke Association (April 2019 – November 2019)   
 *Communication Support Volunteer* 
@@ -65,10 +68,9 @@ See work experience
 * 1 AS level
 
 ## Hobbies
-<!-- 
-* listening to podcasts such as Techish
+* Listening to podcasts such as Techish
 * Baking and decorating cakes
- -->
+ 
 
 
 
