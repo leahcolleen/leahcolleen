@@ -9,8 +9,8 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 | ---------------------------- | ------------------------------------------------------------------------------| -------------------| ----------------- |
 | **Sneaker Seeker**            |Group project- we created a web app that suggests sneakers to sneaker lovers. | 10 days| Express, React, Node.js, JavaScript|
 | **Acebook** | Group project- Clone of Facebook using Ruby in Rails. Features include a feed of other user’s posts, commenting and liking posts. Users could also sign in, log in and log out. |       10 days   | Ruby, Ruby on Rails, Postgres and ActiveRecord, HTML, CSS, RSpec, Cabybara              |
-<!-- | **Chitter**            |Individual project- a web app similar to Twitter, users can view and post tweets | 1.5 days| Ruby, Postgres and ActiveRecord, HTML, CSS, RSpec, Cabybara| -->
-| **Notes App**            |Group project- a web app for storing and taking notes | 2.5 days| JavaScript, Jasmine, Postgres and ActiveRecord|
+| **Notes App**            |Group project- a web app for storing and taking notes | 2.5 days| JavaScript, Jasmine, Postgres and ActiveRecord|<!-- | **Chitter**            |Individual project- a web app similar to Twitter, users can view and post tweets | 1.5 days| Ruby, Postgres and ActiveRecord, HTML, CSS, RSpec, Cabybara| -->
+
 
 
 
@@ -42,10 +42,12 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 * Used verbal and non-verbal methods to communicate with service users
 
 ## Skills
-<!-- #### Self-led learner (growth mindset)
+<!-- #### Self-led learner and problem solver (growth mindset)
+Since completing an introductory web development course with Code First Girls, I have continued to learn and develop my skills in HTML and CSS using Free Code Camp and The Odin Project online resources. Being able to problem solve has been very important in my learning process, because there has been cases when I am stuck on a step and need further assistance. So to solve this I often use Google to find my answers on websites like Bootstrap, W3schools and tech forums. Developing my skills alone has meant I have to be strict with managing my time and prioritising tasks in my daily life. I have to make sure I set aside time to code alongside my part-time job. Thi skill was further developed as a student in the Makers Academy
 #### Time management and organisation
+
 #### Teamwork and collaboration (EQ)
-#### Problem-solver-->
+I am a strong independent worker but also enjoy working in collaborative teams, which allows me to gain and share new information. In collaborative work I am effective in communicating verbally and in writing. Throughtout my time at the Makers Academy, I worked in teams of 3 to 6 team members building web applications. The group projects were based on the agile working model and I gained experience using typical agile processes such as morning stand-ups, end-of-day retros, continuous integretion and continuous deployment.
 
 ## Education 
 #### Makers Academy: August-November 2021
