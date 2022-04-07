@@ -13,6 +13,17 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 
 
 
+## Skills
+
+#### Self-led learner and problem solver (growth mindset)
+Since completing an introductory web development course with Code First Girls, I have continued to learn and develop my skills in HTML and CSS, Ruby and JavaScript as a student in the Makers Academy. Being able to problem solve has been very important in my learning journey when I stumble on a problem and need further assistance. Having a growth mindset when approaching these problems has become essential in my learning journey; being able to accept the challenge and know that with persistence and determination I will learn new concepts coding problems may introduce. Today there are lots of solutions online and I have learnt to use my initiative to use websites like Bootstrap, W3schools and tech forums to aid my learning.
+
+<!-- #### Time management and organisation
+Developing my skills alone has meant I have to be strict with managing my time and prioritising tasks in my daily life. I have to make sure I set aside time to code alongside my part-time job. -->
+
+#### Teamwork and collaboration (EQ)
+I am a strong independent worker but also enjoy working in collaborative teams, which allows me to gain and share new information. In collaborative work I am effective in communicating verbally and in writing. Throughtout my time at the Makers Academy, I worked in teams of 3 to 6 team members building web applications. The group projects were based on the agile working model and I gained experience using typical agile processes such as morning stand-ups, end-of-day retros, continuous integretion and continuous deployment. To effectively work in teams it was important to know and understand each team member's working style to avoid conflict and promote efficiency.
+
 
 ## Work experience
 
@@ -41,13 +52,6 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 *	Maintained a positive can-do attitude when communicating with stroke survivors
 * Used verbal and non-verbal methods to communicate with service users
 
-## Skills
-<!-- #### Self-led learner and problem solver (growth mindset)
-Since completing an introductory web development course with Code First Girls, I have continued to learn and develop my skills in HTML and CSS using Free Code Camp and The Odin Project online resources. Being able to problem solve has been very important in my learning process, because there has been cases when I am stuck on a step and need further assistance. So to solve this I often use Google to find my answers on websites like Bootstrap, W3schools and tech forums. Developing my skills alone has meant I have to be strict with managing my time and prioritising tasks in my daily life. I have to make sure I set aside time to code alongside my part-time job. Thi skill was further developed as a student in the Makers Academy
-#### Time management and organisation
-
-#### Teamwork and collaboration (EQ)
-I am a strong independent worker but also enjoy working in collaborative teams, which allows me to gain and share new information. In collaborative work I am effective in communicating verbally and in writing. Throughtout my time at the Makers Academy, I worked in teams of 3 to 6 team members building web applications. The group projects were based on the agile working model and I gained experience using typical agile processes such as morning stand-ups, end-of-day retros, continuous integretion and continuous deployment.
 
 ## Education 
 #### Makers Academy: August-November 2021
@@ -72,6 +76,7 @@ See work experience
 ## Hobbies
 * Listening to podcasts such as Techish
 * Baking and decorating cakes
+* Active nature: The gym and roller skating
  
 
 
