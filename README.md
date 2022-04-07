@@ -9,7 +9,7 @@ A psychology graduate and retail assistant turned junior full-stack software dev
 | ---------------------------- | ------------------------------------------------------------------------------| -------------------| ----------------- |
 | **Sneaker Seeker**            |Group project- we created a web app that suggests sneakers to sneaker lovers. | 10 days| Express, React, Node.js, JavaScript|
 | **Acebook** | Group project- Clone of Facebook using Ruby in Rails. Features include a feed of other user’s posts, commenting and liking posts. Users could also sign in, log in and log out. |       10 days   | Ruby, Ruby on Rails, Postgres and ActiveRecord, HTML, CSS, RSpec, Cabybara              |
-| **Chitter**            |Individual project- a web app similar to Twitter, users can view and post tweets | 1.5 days| Ruby, Postgres and ActiveRecord, HTML, CSS, RSpec, Cabybara|
+<!-- | **Chitter**            |Individual project- a web app similar to Twitter, users can view and post tweets | 1.5 days| Ruby, Postgres and ActiveRecord, HTML, CSS, RSpec, Cabybara| -->
 | **Notes App**            |Group project- a web app for storing and taking notes | 2.5 days| JavaScript, Jasmine, Postgres and ActiveRecord|
 
 
